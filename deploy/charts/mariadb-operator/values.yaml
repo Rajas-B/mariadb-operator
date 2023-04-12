@@ -41,7 +41,7 @@ webhook:
   # -- Annotations for webhook configurations.
   annotations: {}
   image:
-    repository: ghcr.io/mariadb-operator/mariadb-operator
+    repository: docker.io/rajasb/mariadb_operator:latest
     pullPolicy: IfNotPresent
     # -- Image tag to use. By default the chart appVersion is used
     tag: ""
