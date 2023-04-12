@@ -1,7 +1,7 @@
 apiVersion: v2
 name: mariadb-operator
 description: Run and operate MariaDB in a cloud native way
-home: https://github.com/mariadb-operator/mariadb-operator
+home: https://github.com/Rajas-B/mariadb-operator
 icon: https://mariadb-operator.github.io/mariadb-operator/assets/mariadb.png
 type: application
 version: 0.11.0
